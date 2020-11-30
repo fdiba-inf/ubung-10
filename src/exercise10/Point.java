@@ -19,6 +19,14 @@ public class Point {
         y = otherPoint.y;
     }
 
+    public double getX() {
+        return x;
+    }
+
+    public double getY() {
+        return y;
+    }
+
     public void initialize() {
         System.out.print("Enter x: ");
         x = Utils.INPUT.nextDouble();

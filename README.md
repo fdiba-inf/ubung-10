@@ -26,7 +26,17 @@ Betrachten Sie die Klasse _Rectangle_. Sie is schon eine Unterklasse der _Figure
 
 Erwartete Ausgabe der Klasse _EllipseDemo_:
 ``` 
-TODO
+Start point: 
+Enter x: 1
+Enter y: 2
+Enter side 1: 3
+Enter side 2: 4
+1. Ellipse: (0.0, 0.0)-[1.0, 1.0], Circle, P=6.283185307179586, A=3.141592653589793
+2. Ellipse: (2.0, 3.0)-[5.0, 6.0], Ellipse, P=34.628955940751425, A=94.24777960769379
+3. Ellipse: (2.0, 3.0)-[5.0, 6.0], Ellipse, P=34.628955940751425, A=94.24777960769379
+4. Ellipse: (1.0, 2.0)-[3.0, 4.0], Ellipse, P=22.103491790916742, A=37.69911184307752
+2. equals 1.: false
+2. equals 3.: true
 ``` 
 ## Aufgabe 2. Bearbeitung von Klick Ereignisse
 Implementieren sie die Methode _containsClick(...)_ in der Unterklassen. Sie soll überprüfen, ob die Koordinaten eines Punktes _(x, y)_ sich im Rahmen eines Objekts befinden:
