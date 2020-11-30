@@ -47,7 +47,20 @@ Implementieren sie die Methode _containsClick(...)_ in der Unterklassen. Sie sol
 
 Erwartete Ausgabe der Klasse _ClickDemo_:
 ``` 
-TODO
+Start point: 
+Enter x: 1
+Enter y: 1
+Enter side 1: 4
+Enter side 2: 5
+Start point: 
+Enter x: 1
+Enter y: 1
+Enter side 1: 2
+Enter side 2: 3
+Enter x: 2
+Enter y: 2
+ClickListener 0 contains click point: true
+ClickListener 1 contains click point: true
 ``` 
 ## Achtung! Achtung! Achtung!
 Wenn Sie alle Aufgaben gemacht haben, sollen Sie die Lösungen in _GitHub_ hochladen. 
