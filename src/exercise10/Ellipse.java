@@ -62,4 +62,9 @@ public class Ellipse {
 
         return (sameA && sameB) || (sameAReversed && sameBReversed);
     }
+
+    public boolean containsClick(Point click) {
+        // Check if click point is inside the rectangle
+        return false;
+    }
 }

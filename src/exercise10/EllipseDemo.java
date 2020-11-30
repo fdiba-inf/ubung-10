@@ -9,10 +9,10 @@ public class EllipseDemo {
         Ellipse ellipse4 = new Ellipse();
         ellipse4.initialize();
 
-        System.out.println("1. : " + ellipse1);
-        System.out.println("2. : " + ellipse2);
-        System.out.println("3. : " + ellipse3);
-        System.out.println("4. : " + ellipse4);
+        System.out.println("1. " + ellipse1);
+        System.out.println("2. " + ellipse2);
+        System.out.println("3. " + ellipse3);
+        System.out.println("4. " + ellipse4);
 
         System.out.println("2. equals 1.: " + ellipse2.equal(ellipse1));
         System.out.println("2. equals 3.: " + ellipse2.equal(ellipse3));
