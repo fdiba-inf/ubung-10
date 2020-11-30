@@ -29,7 +29,7 @@ Erwartete Ausgabe der Klasse _EllipseDemo_:
 TODO
 ``` 
 ## Aufgabe 2. Bearbeitung von Klick Ereignisse
-Implementieren sie die Methode _containsClick(...)_ in der Unterklassen, die überprüfen soll, ob die Koordinaten eines Punktes _(x, y)_ sich im Rahmen eines Objekts befinden:
+Implementieren sie die Methode _containsClick(...)_ in der Unterklassen. Sie soll überprüfen, ob die Koordinaten eines Punktes _(x, y)_ sich im Rahmen eines Objekts befinden:
 * _Rectangle_ - Ein Klickpunkt _(x, y)_ befindet sich in einem Rechteck, wenn _x_ im Bereich _[Anfangspunkt x, Anfangspunkt x + Breite]_ ist und _y_ im Bereich _[Anfangspunkt y, Anfangspunkt y + Höhe]_ ist.
 * _Ellipse_ - Ein Klickpunkt _(x, y)_ befindet sich in einer Ellipse mit einem Center _(xce, yce)_, wenn:
 
