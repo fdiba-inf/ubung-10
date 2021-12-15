@@ -43,7 +43,7 @@ Implementieren sie die Methode _containsClick(...)_ in der Unterklassen. Sie sol
 * _Rectangle_ - Ein Klickpunkt _(x, y)_ befindet sich in einem Rechteck, wenn _x_ im Bereich _[Anfangspunkt x, Anfangspunkt x + Breite]_ ist und _y_ im Bereich _[Anfangspunkt y, Anfangspunkt y + Höhe]_ ist.
 * _Ellipse_ - Ein Klickpunkt _(x, y)_ befindet sich in einer Ellipse mit einem Center _(xce, yce)_, wenn:
 
-<img src="https://github.com/fdiba-inf/vorlesung/raw/master/images/exercise10/ellipse-click.png" width="250">
+<img src="https://github.com/fdiba-inf/vorlesung/blob/main/images/exercise10/ellipse-click.png" width="250">
 
 Erwartete Ausgabe der Klasse _ClickDemo_:
 ``` 
